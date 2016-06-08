@@ -1,0 +1,22 @@
+{
+  "name": "arte7plus-fetcher",
+  "version": "0.0.0",
+  "description": "Fetch the video metadata from http://www.arte.tv (Arte7+ Category)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erwyn/arte7plus-fetcher.git"
+  },
+  "keywords": [
+    "arte"
+  ],
+  "author": "Martin Goyot <martin@piwany.com> (http://erwyn.piwany.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erwyn/arte7plus-fetcher/issues"
+  },
+  "homepage": "https://github.com/Erwyn/arte7plus-fetcher#readme"
+}
